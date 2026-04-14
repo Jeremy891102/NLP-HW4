@@ -1,0 +1,9 @@
+checkpoints/
+*.pt
+*.pkl
+*.safetensors
+__pycache__/
+.ipynb_checkpoints/
+wandb/
+data/flight_database.db
+submission/best_model.pt
